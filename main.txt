@@ -3,3 +3,4 @@ line2 editted
 line3 editted ()changed
 line4 editted
 line5 editted
+line6 editted (changes from pycharm)
